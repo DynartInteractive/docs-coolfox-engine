@@ -13,4 +13,5 @@ Currently supported platforms (none published yet):
 :maxdepth: 1
 :caption: Contents
 
+build/index
 level-editing/basics
